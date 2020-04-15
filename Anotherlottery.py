@@ -1,3 +1,4 @@
+###### Simple lottery ######
 import random
 from time import sleep
 print("""

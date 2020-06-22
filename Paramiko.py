@@ -1,6 +1,6 @@
 #######
 
-Paramiko form python to aws ec2
+Paramiko form python to aws ec2 machine
 
 #######
 

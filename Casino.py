@@ -114,9 +114,9 @@ def menu():
         if num == "3":
             Guess()
         if num == "4":
-            print("See you next time, bye (:")
+            print("See you next time, bye :")
             break
         else:
-            print("Enter only 1 To 4 !")
+            print(" Enter only 1 To 4 !")
 
 menu()

@@ -38,8 +38,8 @@ def lambda_handler(event, context):
     print("Connected to :" + hostname)
     
     commands = [
-        "ls"
-        "pwd"
+        "docker run -d -v /home/ubuntu/new/vals:/root/apps/vals data_processing python /root/apps/basic.py"
+        ""
         ]
 
     # executing list of commands within server
